@@ -1,31 +1,22 @@
 Logfile initialized
 [INFO] logfile = /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build.log
-[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 8 WQVGA432
 [INFO] logfile = /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build.log
-[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py emulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 8 WQVGA432 x86
+[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 9 WQVGA432
+[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py emulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 9 WQVGA432 armeabi-v7a
 [INFO] Launching Android emulator...one moment
 [INFO] Building titaniumNightClub for Android ... one moment
 [DEBUG] From: /Applications/android-sdk-mac/tools/emulator
 [DEBUG] SDCard: /Users/lucheins/.titanium/android2.sdcard
-[DEBUG] AVD ID: 8
+[DEBUG] AVD ID: 9
 [DEBUG] AVD Skin: WQVGA432
-[DEBUG] AVD ABI: x86
+[DEBUG] AVD ABI: armeabi-v7a
 [DEBUG] SDK: /Applications/android-sdk-mac
+[INFO] Emulator is running.
 [INFO] Titanium SDK version: 3.1.1 (06/15/13 16:09 f7592c1)
 [DEBUG] Waiting for device to be ready ...
-[TRACE] adb devices returned 0 devices/emulators
-[DEBUG] /Applications/android-sdk-mac/tools/emulator -avd titanium_8_WQVGA432_x86 -port 5560 -sdcard /Users/lucheins/.titanium/titanium_8_WQVGA432_x86.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
 [TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[INFO] Launching application ... titaniumNightClub
-[TRACE] adb devices returned 1 devices/emulators
-[DEBUG] Device connected... (waited 35 seconds)
-[DEBUG] waited 35.131136 seconds on emulator to get ready
-[INFO] Waiting for the Android Emulator to become available
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.015124 seconds on emulator to get ready
 [DEBUG] com.nextwebart.tnc installed? False
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying CommonJS modules...
@@ -145,155 +136,6 @@ Logfile initialized
 [DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-port-mdpi/default.png
 [DEBUG] Added 'screenSize' to <activity android:configChanges> because targeted api level 17 is >= 13
 [DEBUG] creating unsigned apk: /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/bin/app-unsigned.apk
-[DEBUG] from resource zip => assets/Resources/common/date.js
-[DEBUG] from resource zip => assets/Resources/common/globals.js
-[DEBUG] from resource zip => assets/Resources/common/gui.js
-[DEBUG] from resource zip => assets/Resources/contact_lib/contactGUI.js
-[DEBUG] from resource zip => assets/Resources/contact_lib/contactModule.js
-[DEBUG] from resource zip => assets/Resources/events_lib/eventsApi.js
-[DEBUG] from resource zip => assets/Resources/events_lib/eventsGUI.js
-[DEBUG] from resource zip => assets/Resources/events_lib/eventsModule.js
-[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsApi.js
-[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsGUI.js
-[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsModule.js
-[DEBUG] from resource zip => assets/Resources/galleries_lib/galleryAPI.js
-[DEBUG] from resource zip => assets/Resources/galleries_lib/galleryModule.js
-[DEBUG] from resource zip => assets/Resources/galleries_lib/gui.js
-[DEBUG] from resource zip => assets/Resources/galleries_libOld/galleryAPI.js
-[DEBUG] from resource zip => assets/Resources/galleries_libOld/galleryModule.js
-[DEBUG] from resource zip => assets/Resources/galleries_libOld/gui.js
-[DEBUG] from resource zip => assets/Resources/images/bigben-icon.png
-[DEBUG] from resource zip => assets/Resources/images/bigben-icons.png
-[DEBUG] from resource zip => assets/Resources/images/colosseum-icon.png
-[DEBUG] from resource zip => assets/Resources/images/colosseum-icons.png
-[DEBUG] from resource zip => assets/Resources/images/egypt-icon.png
-[DEBUG] from resource zip => assets/Resources/images/egypt-icons.png
-[DEBUG] from resource zip => assets/Resources/images/eiffel-icon.png
-[DEBUG] from resource zip => assets/Resources/images/eiffel-icons.png
-[DEBUG] from resource zip => assets/Resources/images/liberty-icon.png
-[DEBUG] from resource zip => assets/Resources/images/liberty-icons.png
-[DEBUG] from resource zip => assets/Resources/maps_lib/mapGUI.js
-[DEBUG] from resource zip => assets/Resources/maps_lib/mapsModule.js
-[DEBUG] from resource zip => assets/Resources/music_lib/musicAPI.js
-[DEBUG] from resource zip => assets/Resources/music_lib/musicGUI.js
-[DEBUG] from resource zip => assets/Resources/music_lib/musicModule.js
-[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
-[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
-[DEBUG] from resource zip => assets/Resources/app.js
-[DEBUG] from resource zip => assets/Resources/appicon.png
-[DEBUG] from resource zip => assets/Resources/default.png
-[DEBUG] from resource zip => assets/app.json
-[DEBUG] from resource zip => assets/index.json
-[DEBUG] from resource zip => assets/tiapp.xml
-[DEBUG] from resource zip => res/drawable/appicon.png
-[DEBUG] from resource zip => res/drawable/background.png
-[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
-[DEBUG] from resource zip => res/drawable/btn_more_64.png
-[DEBUG] from resource zip => res/drawable/com_facebook_button_check.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_button_check_off.png
-[DEBUG] from resource zip => res/drawable/com_facebook_button_check_on.png
-[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_focused.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_normal.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_pressed.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_close.png
-[DEBUG] from resource zip => res/drawable/com_facebook_icon.png
-[DEBUG] from resource zip => res/drawable/com_facebook_list_divider.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_list_section_header_background.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_focused.png
-[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_normal.png
-[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_pressed.png
-[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_silver.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_logo.png
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_item_background.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_focused.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_longpressed.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_pressed.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector_background_transition.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector_disabled.9.png
-[DEBUG] from resource zip => res/drawable/com_facebook_picker_top_button.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_place_default_icon.png
-[DEBUG] from resource zip => res/drawable/com_facebook_profile_default_icon.png
-[DEBUG] from resource zip => res/drawable/com_facebook_profile_picture_blank_portrait.png
-[DEBUG] from resource zip => res/drawable/com_facebook_profile_picture_blank_square.png
-[DEBUG] from resource zip => res/drawable/com_facebook_top_background.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_top_button.xml
-[DEBUG] from resource zip => res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
-[DEBUG] from resource zip => res/drawable/disclosure_64.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_login.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_login_down.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_login_wide.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_login_wide_down.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_logout.png
-[DEBUG] from resource zip => res/drawable/titanium_facebook_logout_down.png
-[DEBUG] from resource zip => res/layout/com_facebook_friendpickerfragment.xml
-[DEBUG] from resource zip => res/layout/com_facebook_login_activity_layout.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_activity_circle_row.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_checkbox.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_image.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_list_row.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_list_section_header.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_search_box.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_title_bar.xml
-[DEBUG] from resource zip => res/layout/com_facebook_picker_title_bar_stub.xml
-[DEBUG] from resource zip => res/layout/com_facebook_placepickerfragment.xml
-[DEBUG] from resource zip => res/layout/com_facebook_placepickerfragment_list_row.xml
-[DEBUG] from resource zip => res/layout/com_facebook_usersettingsfragment.xml
-[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
-[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
-[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
-[DEBUG] from resource zip => AndroidManifest.xml
-[DEBUG] from resource zip => resources.arsc
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_focused.9.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_normal.9.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_close.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_icon.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png
-[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_logo.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_agenda_ca9ee8d8b2.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_camera_d108b4ecdc.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_contact_a7ec5a1f4a.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_facebook_825c6ec21c.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_map_b14c8b7fda.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_more_2b33b4c37e.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_music_9494cb5147.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_twitter_37eef62f9f.png
-[DEBUG] from resource zip => res/drawable-hdpi/tab_youtube_5612813061.png
-[DEBUG] from resource zip => res/drawable-ldpi/com_facebook_close.png
-[DEBUG] from resource zip => res/drawable-ldpi/com_facebook_icon.png
-[DEBUG] from resource zip => res/drawable-mdpi/contactphoto_f62db4e88d.jpg
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_close.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png
-[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_logo.png
-[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
-[DEBUG] from resource zip => res/drawable-long-land-hdpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
-[DEBUG] from resource zip => res/drawable-long-land-ldpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
-[DEBUG] from resource zip => res/drawable-long-port-hdpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
-[DEBUG] from resource zip => res/drawable-long-port-ldpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/default_d44e27d97b.png
-[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
-[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/default_d44e27d97b.png
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
@@ -327,10 +169,5 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015618 seconds on emulator to get ready
+[DEBUG] waited 0.015245 seconds on emulator to get ready
 [INFO] Installing application on emulator
-[INFO] Launching application ... titaniumNightClub
-[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.nextwebart.tnc/.TitaniumnightclubActivity }
-
-[INFO] Deployed titaniumNightClub ... Application should be running.
-[INFO] Android Emulator has exited
