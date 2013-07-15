@@ -1,22 +1,21 @@
 Logfile initialized
-[INFO] logfile = /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build.log
-[INFO] logfile = /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build.log
-[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 9 WQVGA432
-[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py emulator titaniumNightClub /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2 com.nextwebart.tnc 9 WQVGA432 armeabi-v7a
+ins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py emulator MoS Club /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/Mos App com.nextwebart.tnc 9 WQVGA432 armeabi-v7a
+[INFO] logfile = /Users/lucheins/Desktop/Xenn Mobile/Mos App/build.log
+[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator MoS Club /Applications/android-sdk-mac /Users/lucheins/Desktop/Xenn Mobile/Mos App com.nextwebart.tnc 9 WQVGA432
 [INFO] Launching Android emulator...one moment
-[INFO] Building titaniumNightClub for Android ... one moment
 [DEBUG] From: /Applications/android-sdk-mac/tools/emulator
 [DEBUG] SDCard: /Users/lucheins/.titanium/android2.sdcard
 [DEBUG] AVD ID: 9
 [DEBUG] AVD Skin: WQVGA432
 [DEBUG] AVD ABI: armeabi-v7a
 [DEBUG] SDK: /Applications/android-sdk-mac
+[INFO] Building MoS Club for Android ... one moment
 [INFO] Emulator is running.
 [INFO] Titanium SDK version: 3.1.1 (06/15/13 16:09 f7592c1)
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015124 seconds on emulator to get ready
+[DEBUG] waited 0.015563 seconds on emulator to get ready
 [DEBUG] com.nextwebart.tnc installed? False
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying CommonJS modules...
@@ -25,117 +24,256 @@ Logfile initialized
 [INFO] Tiapp.xml unchanged, skipping class generation
 [DEBUG] Processing Android resource drawables
 [INFO] Copying platform-specific files for 'Facebook' module
-[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-es/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-he/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values-iw/strings.xml
-[DEBUG] Removed duplicate node [com_facebook_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/attrs.xml
-[DEBUG] Removed duplicate node [com_facebook_friend_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/attrs.xml
-[DEBUG] Removed duplicate node [com_facebook_place_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/attrs.xml
-[DEBUG] Removed duplicate node [com_facebook_login_view] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/attrs.xml
-[DEBUG] Removed duplicate node [com_facebook_profile_picture_view] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/attrs.xml
-[DEBUG] Removed duplicate node [com_facebook_blue] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_connected_text_color] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_connected_shadow_color] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_not_connected_text_color] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_text_color] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_profile_picture_width] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_profile_picture_height] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_padding_left] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_padding_right] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_padding_top] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_padding_bottom] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_width] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_height] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_text_size] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_small] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_normal] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_large] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_default_style] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] Removed duplicate node [com_facebook_loginview_silver_style] from /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/res/values/styles.xml
-[DEBUG] found drawable-long-land-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-long-land-hdpi/default.png
-[DEBUG] found drawable-long-land-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-long-land-ldpi/default.png
-[DEBUG] found drawable-long-port-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-long-port-hdpi/default.png
-[DEBUG] found drawable-long-port-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-long-port-ldpi/default.png
-[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-land-hdpi/default.png
-[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-land-ldpi/default.png
-[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-land-mdpi/default.png
-[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-port-hdpi/default.png
-[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-port-ldpi/default.png
-[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-es/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-he/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_as] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_logged_in_using_facebook] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_log_out_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loginview_cancel_action] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_logo_content_description] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_log_in_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_usersettingsfragment_not_logged_in] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_catetory_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_placepicker_subtitle_were_here_only_format] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_picker_done_button_text] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_choose_friends] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_nearby] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_loading] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_title] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_internet_permission_error_message] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_web_login] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_relogin] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_password_changed] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_reconnect] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_requesterror_permissions] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate string [com_facebook_dialogloginactivity_ok_button] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values-iw/strings.xml
+[DEBUG] Removed duplicate node [com_facebook_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/attrs.xml
+[DEBUG] Removed duplicate node [com_facebook_friend_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/attrs.xml
+[DEBUG] Removed duplicate node [com_facebook_place_picker_fragment] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/attrs.xml
+[DEBUG] Removed duplicate node [com_facebook_login_view] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/attrs.xml
+[DEBUG] Removed duplicate node [com_facebook_profile_picture_view] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/attrs.xml
+[DEBUG] Removed duplicate node [com_facebook_blue] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_connected_text_color] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_connected_shadow_color] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_not_connected_text_color] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_text_color] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_profile_picture_width] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_usersettingsfragment_profile_picture_height] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_padding_left] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_padding_right] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_padding_top] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_padding_bottom] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_width] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_height] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_text_size] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_small] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_normal] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_profilepictureview_preset_size_large] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_default_style] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] Removed duplicate node [com_facebook_loginview_silver_style] from /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/res/values/styles.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/lucheins/Desktop/Xenn Mobile/Mos App/Resources/android/images/res-notlong-port-mdpi/default.png
 [DEBUG] Added 'screenSize' to <activity android:configChanges> because targeted api level 17 is >= 13
-[DEBUG] creating unsigned apk: /Users/lucheins/Desktop/Xenn Mobile/titaniumNightClub_4_2/build/android/bin/app-unsigned.apk
+[DEBUG] creating unsigned apk: /Users/lucheins/Desktop/Xenn Mobile/Mos App/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/common/date.js
+[DEBUG] from resource zip => assets/Resources/common/globals.js
+[DEBUG] from resource zip => assets/Resources/common/gui.js
+[DEBUG] from resource zip => assets/Resources/contact_lib/contactGUI.js
+[DEBUG] from resource zip => assets/Resources/contact_lib/contactModule.js
+[DEBUG] from resource zip => assets/Resources/events_lib/eventsApi.js
+[DEBUG] from resource zip => assets/Resources/events_lib/eventsGUI.js
+[DEBUG] from resource zip => assets/Resources/events_lib/eventsModule.js
+[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsApi.js
+[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsGUI.js
+[DEBUG] from resource zip => assets/Resources/events_libOLD/eventsModule.js
+[DEBUG] from resource zip => assets/Resources/galleries_lib/galleryAPI.js
+[DEBUG] from resource zip => assets/Resources/galleries_lib/galleryModule.js
+[DEBUG] from resource zip => assets/Resources/galleries_lib/gui.js
+[DEBUG] from resource zip => assets/Resources/galleries_libOld/galleryAPI.js
+[DEBUG] from resource zip => assets/Resources/galleries_libOld/galleryModule.js
+[DEBUG] from resource zip => assets/Resources/galleries_libOld/gui.js
+[DEBUG] from resource zip => assets/Resources/images/bigben-icon.png
+[DEBUG] from resource zip => assets/Resources/images/bigben-icons.png
+[DEBUG] from resource zip => assets/Resources/images/colosseum-icon.png
+[DEBUG] from resource zip => assets/Resources/images/colosseum-icons.png
+[DEBUG] from resource zip => assets/Resources/images/egypt-icon.png
+[DEBUG] from resource zip => assets/Resources/images/egypt-icons.png
+[DEBUG] from resource zip => assets/Resources/images/eiffel-icon.png
+[DEBUG] from resource zip => assets/Resources/images/eiffel-icons.png
+[DEBUG] from resource zip => assets/Resources/images/liberty-icon.png
+[DEBUG] from resource zip => assets/Resources/images/liberty-icons.png
+[DEBUG] from resource zip => assets/Resources/maps_lib/mapGUI.js
+[DEBUG] from resource zip => assets/Resources/maps_lib/mapsModule.js
+[DEBUG] from resource zip => assets/Resources/music_lib/musicAPI.js
+[DEBUG] from resource zip => assets/Resources/music_lib/musicGUI.js
+[DEBUG] from resource zip => assets/Resources/music_lib/musicModule.js
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from resource zip => res/drawable/btn_more_64.png
+[DEBUG] from resource zip => res/drawable/com_facebook_button_check.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_button_check_off.png
+[DEBUG] from resource zip => res/drawable/com_facebook_button_check_on.png
+[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_focused.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_normal.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_button_grey_pressed.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_close.png
+[DEBUG] from resource zip => res/drawable/com_facebook_icon.png
+[DEBUG] from resource zip => res/drawable/com_facebook_list_divider.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_list_section_header_background.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_focused.png
+[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_normal.png
+[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_blue_pressed.png
+[DEBUG] from resource zip => res/drawable/com_facebook_loginbutton_silver.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_logo.png
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_item_background.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_focused.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_longpressed.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_pressed.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector_background_transition.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_list_selector_disabled.9.png
+[DEBUG] from resource zip => res/drawable/com_facebook_picker_top_button.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_place_default_icon.png
+[DEBUG] from resource zip => res/drawable/com_facebook_profile_default_icon.png
+[DEBUG] from resource zip => res/drawable/com_facebook_profile_picture_blank_portrait.png
+[DEBUG] from resource zip => res/drawable/com_facebook_profile_picture_blank_square.png
+[DEBUG] from resource zip => res/drawable/com_facebook_top_background.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_top_button.xml
+[DEBUG] from resource zip => res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+[DEBUG] from resource zip => res/drawable/disclosure_64.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_login.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_logout.png
+[DEBUG] from resource zip => res/drawable/titanium_facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/com_facebook_friendpickerfragment.xml
+[DEBUG] from resource zip => res/layout/com_facebook_login_activity_layout.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_activity_circle_row.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_checkbox.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_image.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_list_row.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_list_section_header.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_search_box.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_title_bar.xml
+[DEBUG] from resource zip => res/layout/com_facebook_picker_title_bar_stub.xml
+[DEBUG] from resource zip => res/layout/com_facebook_placepickerfragment.xml
+[DEBUG] from resource zip => res/layout/com_facebook_placepickerfragment_list_row.xml
+[DEBUG] from resource zip => res/layout/com_facebook_usersettingsfragment.xml
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_close.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_icon.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png
+[DEBUG] from resource zip => res/drawable-hdpi/com_facebook_logo.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_agenda_ca9ee8d8b2.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_camera_d108b4ecdc.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_contact_a7ec5a1f4a.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_facebook_825c6ec21c.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_map_b14c8b7fda.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_more_2b33b4c37e.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_music_9494cb5147.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_twitter_37eef62f9f.png
+[DEBUG] from resource zip => res/drawable-hdpi/tab_youtube_5612813061.png
+[DEBUG] from resource zip => res/drawable-ldpi/com_facebook_close.png
+[DEBUG] from resource zip => res/drawable-ldpi/com_facebook_icon.png
+[DEBUG] from resource zip => res/drawable-mdpi/contactphoto_f62db4e88d.jpg
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_close.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png
+[DEBUG] from resource zip => res/drawable-xhdpi/com_facebook_logo.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
 [DEBUG] from JAR /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
@@ -169,5 +307,10 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015245 seconds on emulator to get ready
+[DEBUG] waited 0.016023 seconds on emulator to get ready
 [INFO] Installing application on emulator
+[INFO] Launching application ... MoS Club
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.nextwebart.tnc/.MosClubActivity }
+
+[INFO] Deployed MoS Club ... Application should be running.
+[INFO] Android Emulator has exited

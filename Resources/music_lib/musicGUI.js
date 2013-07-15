@@ -61,7 +61,8 @@ exports.creteSimpleRow=function(p)
 		left:"70dp",
 		height:rowHeight,
 		width:textW,
-		color:textColor,
+		color:"white",
+		font:{fontSize:"15dp"},
 	})
 	row.add(theTitle);
 	
