@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- TAB names -->
+	<string name="gallery">Gallery</string>
+	<string name="events">Agenda</string>
+	<string name="map">Map</string>
+	<string name="music">Music</string>
+	<string name="facebook">Facebook</string>
+	<string name="twitter">Twitter</string>
+	<string name="youtube">YouTube</string>
+	<string name="contact">Contact</string>
+	<string name="more">More</string>
+	<!-- GLOBAL STRING -->
+	<string name="appName">Night Club</string>
+	<string name="fb">Facebook</string>
+	<string name="cancel">Cancel</string>
+	<string name="start">Start:</string>
+	<string name="end">End:</string>
+	<string name="event">Event Details</string>
+	<string name="desc">Description:</string>
+	<string name="link">Link</string>
+	<string name="join">Join</string>
+	<string name="plw">Please Wait...</string>
+	<string name="cong">Congratulations</string>
+	<string name="reserved">You are now attending the event </string>
+	<string name="loading_events">Loading Events. Please wait..</string>
+	<string name="loading_music">Loading Music. Please wait..</string>
+	<string name="share">Share</string>
+	<string name="nc">No Connection</string>
+	<string name="ce">Communication Error Occureed</string>
+	<string name="error">Error!</string>
+	<string name="succ">Success!</string>
+	<string name="sharedimg">Image is successfuly uploaded.</string>
+	<string name="pg">Photo Gallery</string>
+	<string name="image_doownloaded">Image downloaded in photo gallery</string>
+	<string name="loading_images">Loading Photos. Please wait..</string>
+	<string name="loading_albums">Loading Albums. Please wait..</string>
+	<string name="loading_photo">Loading Big Images. Please wait...</string>
+	<string name="share_fb">Share on Facebook</string>
+	<string name="download">Download</string>
+	
+	<!-- Contact values -->
+	<string name="name">Name*:</string>
+	<string name="email">Email*:</string>
+	<string name="phone">Phone:</string>
+	<string name="send">Send</string>
+	<string name="callus">Call Us</string>
+	<string name="oursite">Visit our site</string>
+	<string name="message">Message:</string>
+	
+	<string name="error_failed_connection">Connection failure!</string>
+	<string name="error_send_mail">There is some error in the fields. Please check once again</string>
+	<string name="send_mail">The mail has been send. Thank you!</string>
+	<string name="error_o">Error occured</string>
+	<string name="success">Success</string>
+	
+</resources>

@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "ae910289-e295-4129-a236-9aad0029fa85",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "99b8ded9a99f5bdd4d27fd817a99bd41",
+	"nativeModulesHash": "39dffd5c15df4f69b6fe63bc978e3b58",
+	"gitHash": "f7592c1",
+	"name": "titaniumNightClub",
+	"id": "com.nextwebart.tnc",
+	"analytics": true,
+	"publisher": "NextWebArt",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2012 by NextWebArt",
+	"guid": "ae910289-e295-4129-a236-9aad0029fa85",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}

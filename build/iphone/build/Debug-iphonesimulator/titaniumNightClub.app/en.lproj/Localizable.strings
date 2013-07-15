@@ -1,0 +1,53 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"gallery" = "Gallery";
+"events" = "Agenda";
+"map" = "Map";
+"music" = "Music";
+"facebook" = "Facebook";
+"twitter" = "Twitter";
+"youtube" = "YouTube";
+"contact" = "Contact";
+"more" = "More";
+"appName" = "Night Club";
+"fb" = "Facebook";
+"cancel" = "Cancel";
+"start" = "Start:";
+"end" = "End:";
+"event" = "Event Details";
+"desc" = "Description:";
+"link" = "Link";
+"join" = "Join";
+"plw" = "Please Wait...";
+"cong" = "Congratulations";
+"reserved" = "You are now attending the event";
+"loading_events" = "Loading Events. Please wait..";
+"loading_music" = "Loading Music. Please wait..";
+"share" = "Share";
+"nc" = "No Connection";
+"ce" = "Communication Error Occureed";
+"error" = "Error!";
+"succ" = "Success!";
+"sharedimg" = "Image is successfuly uploaded.";
+"pg" = "Photo Gallery";
+"image_doownloaded" = "Image downloaded in photo gallery";
+"loading_images" = "Loading Photos. Please wait..";
+"loading_albums" = "Loading Albums. Please wait..";
+"loading_photo" = "Loading Big Images. Please wait...";
+"share_fb" = "Share on Facebook";
+"download" = "Download";
+"name" = "Name*:";
+"email" = "Email*:";
+"phone" = "Phone:";
+"send" = "Send";
+"callus" = "Call Us";
+"oursite" = "Visit our site";
+"message" = "Message:";
+"error_failed_connection" = "Connection failure!";
+"error_send_mail" = "There is some error in the fields. Please check once again";
+"send_mail" = "The mail has been send. Thank you!";
+"error_o" = "Error occured";
+"success" = "Success";
